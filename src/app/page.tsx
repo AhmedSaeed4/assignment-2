@@ -7,8 +7,8 @@ export default function Home() {
           <h1 id="h1" className="W-[542px] h-[160px] text-center text-[#FFFFFF] font-montserrat font-bold text-[58px] leading-[80px] tracking-[0.2px]">Selling on the <br />internet like a pro</h1>
           <h4 id="h4" className="w-[536px] h-[60px] text-center text-[#FFFFFF] font-montserrat font-normal text-[20px] leading-[30px] tracking-[0.2px]">We know how large objects will act, but things on a small scale just do not act that way.</h4>
           <div id="cta" className="w-auto h-auto gap-[10px] flex justify-center">
-            <button id="button-md" className="w-auto h-auto rounded-[5px] pt-[15px] pb-[15px] pr-[40px] pl-[40px] gap-[10px] bg-[#23A6F0]  "><p className="w-[113px] h-[22px] text-[#FFFFFF] font-montserrat font-bold text-[14px] leading-[22px] tracking-[0.2px] whitespace-nowrap">Get Quote Now</p></button>
-            <button id="button-md" className="w-auto h-auto rounded-[5px] pt-[15px] pb-[15px] pr-[40px] pl-[40px] gap-[10px] border-[#23A6F0] border-[1px]"> <p className="w-[82px] h-[22px] text-[#23A6F0] font-montserrat font-bold text-[14px] leading-[22px] tracking-[0.2px] whitespace-nowrap" >Learn More</p></button>
+            <button id="button-md" className="w-auto h-auto rounded-[5px] pt-[15px] pb-[15px] pr-[40px] pl-[40px] gap-[10px] bg-[#23A6F0] hover:bg-blue-400 "><p className="w-[113px] h-[22px] text-[#FFFFFF] font-montserrat font-bold text-[14px] leading-[22px] tracking-[0.2px] whitespace-nowrap">Get Quote Now</p></button>
+            <button id="button-md" className="w-auto h-auto rounded-[5px] pt-[15px] pb-[15px] pr-[40px] pl-[40px] gap-[10px] border-[#23A6F0] border-[1px]  hover:border-white"> <p className="w-[82px] h-[22px] text-[#23A6F0] font-montserrat font-bold text-[14px] leading-[22px] tracking-[0.2px] whitespace-nowrap" >Learn More</p></button>
           </div>
         </div>
       </div>
